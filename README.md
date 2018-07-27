@@ -2,7 +2,7 @@
 
 Contributed by [Jie Yang](http://yangjiera.github.io).
 
-This list does not include classical papers on machine intelligence approaches to human computation and 
+This list does not include papers before 2016.
 
 ### Survey papers:
 
